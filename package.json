@@ -1,0 +1,29 @@
+{
+  "name": "beepboop-slapp-presence-polyfill",
+  "version": "0.0.0",
+  "description": "Presence polyfill for Beep Boop Slapp apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selfcontained/beepboop-slapp-presence-polyfill.git"
+  },
+  "keywords": [
+    "beepboop",
+    "slack",
+    "slapp"
+  ],
+  "author": "Brad Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfcontained/beepboop-slapp-presence-polyfill/issues"
+  },
+  "dependencies": {
+    "beepboop-smallwins-slack": "^0.1.0"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
