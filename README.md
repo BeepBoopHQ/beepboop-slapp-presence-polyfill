@@ -17,7 +17,7 @@ Make sure you enable Multi-Team Socket Mode on your project, then plug this libr
 
 ![image](https://cloud.githubusercontent.com/assets/367275/17818725/f983dff8-6601-11e6-8911-cf3539e02a3a.png)
 
-```
+```javascript
 var Slapp = require('slapp')
 
 var slapp = Slapp(
