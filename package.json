@@ -21,7 +21,7 @@
     "url": "https://github.com/BeepBoopHQ/beepboop-slapp-presence-polyfill/issues"
   },
   "dependencies": {
-    "beepboop-smallwins-slack": "^0.1.0"
+    "beepboop-smallwins-slack": "^1.1.0"
   },
   "devDependencies": {
     "standard": "^7.1.2"
