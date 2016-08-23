@@ -28,7 +28,7 @@ var slapp = Slapp(
 require('beepboop-slapp-presence-polyfill')(slapp)
 
 // enable debugging
-require('beepboop-slapp-presence-polyfill')(slapp), {
+require('beepboop-slapp-presence-polyfill')(slapp, {
   debug: true
 })
 ```
